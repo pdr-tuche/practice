@@ -1,0 +1,3 @@
+# ts-practice
+
+📚 practicing TypeScript
