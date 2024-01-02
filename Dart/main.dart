@@ -1,4 +1,4 @@
-import 'classes/index.dart';
+import 'classes/classes.dart';
 
 void main() {
   var coquinha = Coquinha("600ml", "refrigerante");
